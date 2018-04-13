@@ -1,0 +1,2 @@
+answer = "Damany"
+puts "Whats my name #{name}"
